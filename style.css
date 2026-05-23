@@ -68,8 +68,8 @@ a {
 }
 
 .brand img {
-  width: 52px;
-  height: 52px;
+  width: 64px;
+  height: auto;
   object-fit: contain;
 }
 
@@ -170,8 +170,8 @@ a {
 }
 
 .hero-brand-card img {
-  width: 92px;
-  height: 92px;
+  width: 104px;
+  height: auto;
   object-fit: contain;
 }
 
@@ -743,12 +743,12 @@ a {
   }
 
   .hero-brand-card {
-    grid-template-columns: 70px 1fr;
+    grid-template-columns: 82px 1fr;
   }
 
   .hero-brand-card img {
-    width: 70px;
-    height: 70px;
+    width: 82px;
+    height: auto;
   }
 
   .hero-scope-list li {
@@ -809,8 +809,8 @@ a {
   }
 
   .brand img {
-    width: 42px;
-    height: 42px;
+    width: 54px;
+    height: auto;
   }
 
   .company-name {
@@ -826,13 +826,13 @@ a {
   }
 
   .hero-brand-card {
-    grid-template-columns: 58px 1fr;
+    grid-template-columns: 72px 1fr;
     padding: 0;
   }
 
   .hero-brand-card img {
-    width: 58px;
-    height: 58px;
+    width: 72px;
+    height: auto;
   }
 
   .hero-scope-list li {
