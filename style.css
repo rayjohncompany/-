@@ -71,6 +71,7 @@ a {
   width: 64px;
   height: auto;
   object-fit: contain;
+  flex-shrink: 0;
 }
 
 .nav {
@@ -144,7 +145,7 @@ a {
 
 .hero-brand-card {
   display: grid;
-  grid-template-columns: 92px 1fr;
+  grid-template-columns: 104px 1fr;
   gap: 18px;
   align-items: center;
   padding: 0;
@@ -173,6 +174,7 @@ a {
   width: 104px;
   height: auto;
   object-fit: contain;
+  flex-shrink: 0;
 }
 
 .hero-scope-list {
@@ -749,6 +751,8 @@ a {
   .hero-brand-card img {
     width: 82px;
     height: auto;
+    object-fit: contain;
+    flex-shrink: 0;
   }
 
   .hero-scope-list li {
@@ -811,6 +815,8 @@ a {
   .brand img {
     width: 54px;
     height: auto;
+    object-fit: contain;
+    flex-shrink: 0;
   }
 
   .company-name {
@@ -833,6 +839,8 @@ a {
   .hero-brand-card img {
     width: 72px;
     height: auto;
+    object-fit: contain;
+    flex-shrink: 0;
   }
 
   .hero-scope-list li {
