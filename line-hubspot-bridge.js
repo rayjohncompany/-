@@ -5,8 +5,8 @@
 (function () {
   "use strict";
 
-  var LINE_URL = "https://lin.ee/REPLACE_WITH_YOUR_LINE_ID";
-  var HUBSPOT_MEETING_URL = "https://meetings.hubspot.com/REPLACE_WITH_YOUR_MEETING_LINK";
+  var LINE_URL = "https://lin.ee/yQXh0Ma";
+  var HUBSPOT_MEETING_URL = "https://meetings-na2.hubspot.com/swp-oneforall";
 
   var config = {
     title: "ご相談・日程予約",
